@@ -12,23 +12,24 @@ A global health crisis caused by a novel coronavirus named COVID-19 occured in e
 
 
 ## Results
-Authenticated user access with password encryption using passport.js library and Sequelize database ORM.
-User posts to the database of text input with a timestamp, user id, and post id. 
-User “like” of a prior post with storage and increment of the number of likes. 
-Display of prior posts sorted by date or number of likes. 
+* Authenticated user access with password encryption using passport.js library and Sequelize database ORM.
+* User posts to the database of text input with a timestamp, user id, and post id. 
+* User “like” of a prior post with storage and increment of the number of likes. 
+* Display of prior posts sorted by date or number of likes. 
 
 
 ## Shared Responsibilities
-In an effort to promote learning of Sequelize object relational mapping techniques, the team attempted to share equally in the coding of the server side code. 
-Model database Sequelize server handled code. 
-URL and API routing routing code.
-Client side jQuery scripting and ajax HTML code.
+In an effort to promote learning of Sequelize object relational mapping techniques, the team attempted to share equally in the coding of the server side code.
+
+* Model database Sequelize server handled code. 
+* URL and API routing routing code.
+* Client side jQuery scripting and ajax HTML code.
 
 
 ## Individual Responsibilities
-Github repository management
-User interface HTML page creation.
-Application deployment through Heroku. 
+* Github repository management
+* User interface HTML page creation.
+* Application deployment through Heroku. 
 
 
 
@@ -38,11 +39,11 @@ The main challenges encountered were related to model program concerns. Database
 
 
 ## Improvements
-Implement score rating instead of likes.
-Addition of query by post category.
-Addition of updated post input to include photos, video, maps, etc.
-In application user communication with chat functionality
-Limit of number of likes by a user
+* Implement score rating instead of likes.
+* Addition of query by post category.
+* Addition of updated post input to include photos, video, maps, etc.
+* In application user communication with chat functionality
+* Limit of number of likes by a user
 
 
 ## Technologies Used
