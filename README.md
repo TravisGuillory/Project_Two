@@ -46,11 +46,11 @@ Limit of number of likes by a user
 
 
 ## Technologies Used
-Node.js 
-Express.js - Routing library
-MySql - Database functions.
-Sequelize  - javascript library Object-Relational-Manager for database management. 
-Moment.js - javascript library for managing dates.
-Passport.js - javascript library for user authentication.
-Bcrypt.js - password encryption.
-Carousel - CSS library for photo slideshow images in user interface.
+\* Node.js 
+\* Express.js - Routing library
+\* MySql - Database functions.
+\* Sequelize  - javascript library Object-Relational-Manager for database management. 
+\* Moment.js - javascript library for managing dates.
+\* Passport.js - javascript library for user authentication.
+\* Bcrypt.js - password encryption.
+\* Carousel - CSS library for photo slideshow images in user interface.
