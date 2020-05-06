@@ -3,6 +3,8 @@ Node.js Sequelize web application
 
 https://github.com/TravisGuillory/Project_Two
 
+https://quarintainment.herokuapp.com/members
+
 
 
 This application is a web forum dedicated to collecting and exchanging ideas on family entertainment during the COVID-19 pandemic. The application stores ideas posted by authenticated users. Users may also bestow a post with a "like."
