@@ -1,0 +1,16 @@
+{
+   "development": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "mysql"
+    },
+    "test": {
+      "dialect": "sqlite",
+      "storage": ":memory"
+    },
+    "production": {
+      "use_env_variable": "JAWSDB_URL"
+    }
+  }
